@@ -49,7 +49,7 @@ Built and experimented with Discord bots while learning APIs, automation, and ba
 Created an Apple Music presence integration for Discord and learned a lot about application workflows and integrations.
 
 ### ⚡ Electronics Simulations
-Designed and tested electronic circuits using Tinkercad and Wokwi to improve practical electronics knowledg 
+Designed and tested electronic circuits using Tinkercad and Wokwi to improve practical electronics knowledge 
 
 ---
 
