@@ -14,8 +14,6 @@
 - 📍 Rajahmundry, Andhra Pradesh, India
 - 🌱 Currently learning **Arduino, Python, and Cloud Computing**
 - 🤖 Interested in electronics, automation, embedded systems, and software development
-- 🔧 I enjoy learning through projects and experimentation
-- ⚡ Sometimes I design complex circuits and then redesign them halfway through 😭
 
 ---
 
@@ -51,27 +49,15 @@ Built and experimented with Discord bots while learning APIs, automation, and ba
 Created an Apple Music presence integration for Discord and learned a lot about application workflows and integrations.
 
 ### ⚡ Electronics Simulations
-Designed and tested electronic circuits using Tinkercad and Wokwi to improve practical electronics knowledge.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irohitkun&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitkun&layout=compact&theme=tokyonight" />
-</p>
+Designed and tested electronic circuits using Tinkercad and Wokwi to improve practical electronics knowledg 
 
 ---
 
 ## 💡 Fun Facts
 
-- 🔧 I learn best by building things.
-- ⚡ I spend more time debugging than coding.
-- 🚀 Always curious about how technology works behind the scenes.
+-  I learn best by building things.
+-  I spend more time debugging than coding.
+-  Always curious about how technology works behind the scenes.
 
 ---
 
