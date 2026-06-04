@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Virtualization-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Virtual%20Machines-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hosting-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APIs-FF6B6B?style=for-the-badge" />
 </p>
