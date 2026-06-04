@@ -1,68 +1,60 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rohit Seeramsetti</h1>
+<h3 align="center">17 year old alpha omega - awooo🐺</h3>
 
-# Hi 👋, I'm Rohit Seeramsetti
-
-### Building, breaking, learning, repeating.
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,linux,github,git,vscode" />
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 3rd Year Diploma Student in Electronics & Communication Engineering
+- 🎓 3rd Year Diploma in Electronics & Communication Engineering
 - 📍 Rajahmundry, Andhra Pradesh, India
 - 🌱 Currently learning **Arduino, Python, and Cloud Computing**
-- 🤖 Interested in electronics, automation, embedded systems, and software development
+- ⚡ Interested in **Linux, Virtualization, Hosting, Automation, APIs, and Infrastructure**
+- 🔍 Curious about how technology works behind the scenes, from Android internals to internet infrastructure
 
 ---
 
-## 🎓 Education
+### 🛠️ Interests
 
-**Diploma in Electronics & Communication Engineering**  
-Godavari Institute of Engineering and Technology (GIET) Polytechnic
-
----
-
-## 🛠️ Skills & Tools
-
-### Programming
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### Tools
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge)
-![Wokwi](https://img.shields.io/badge/Wokwi-000000?style=for-the-badge)
-![T--Spice](https://img.shields.io/badge/T--Spice-blue?style=for-the-badge)
-
-### Currently Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Virtualization-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hosting-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-FF6B6B?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Projects
+### 📂 Projects
 
-### 🤖 Discord Bot
-Built and experimented with Discord bots while learning APIs, automation, and backend concepts.
+#### 🤖 Discord Bots
+Built and maintained Discord bots while exploring APIs, automation, deployment, databases, and backend development.
 
-### 🎵 Music Presence Integration
-Created an Apple Music presence integration for Discord and learned a lot about application workflows and integrations.
+#### 🎵 Apple Music Rich Presence
+Developed a Discord Rich Presence integration for Apple Music and experimented with APIs, authentication flows, and automation systems.
 
-### ⚡ Electronics Simulations
-Designed and tested electronic circuits using Tinkercad and Wokwi to improve practical electronics knowledge 
-
----
-
-## 💡 Fun Facts
-
--  I learn best by building things.
--  I spend more time debugging than coding.
--  Always curious about how technology works behind the scenes.
+#### ⚡ Electronics Experiments
+Designed and simulated electronic circuits using Arduino, Wokwi, Tinkercad, and other electronics tools.
 
 ---
 
-<div align="center">
+### 🔭 Currently Exploring
 
-### Thanks for visiting! ✨
+- Python
+- Cloud Platforms
+- Linux Environments
+- Infrastructure & Hosting
+- System Administration
+- Electronics Projects
 
-</div>
+---
+
+<p align="center">
+  <i>Building, experimenting, and learning one project at a time.</i>
+</p>
