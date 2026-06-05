@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Seeramsetti</h1>
-<h3 align="center">17 year old alpha omega - awooo🐺</h3>
+<h3 align="center">17 year old self taught nerd</h3>
 
 ---
 
