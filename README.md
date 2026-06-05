@@ -44,7 +44,7 @@ Designed and simulated electronic circuits using Arduino, Wokwi, Tinkercad, and 
 
 - Python
 - Cloud Platforms
-- Linux Environments
+- Linuux Environments
 - Infrastructure & Hosting
 - System Administration
 - Electronics Projects
@@ -53,4 +53,4 @@ Designed and simulated electronic circuits using Arduino, Wokwi, Tinkercad, and 
 
 <p align="center">
   <i>Building, experimenting, and learning one project at a time.</i>
-</p>
+</p> 
