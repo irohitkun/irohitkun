@@ -196,12 +196,11 @@ def make_svg(theme, stats):
     # SVG dimensions
     # ─────────────────────────────────────────
 
-    WIDTH = 1050
-    HEIGHT = 590
+    WIDTH = 850
+    HEIGHT = 700
 
-    INFO_X = 465
-    VALUE_X = 670
-
+    INFO_X = 360
+    VALUE_X = 550
     svg = []
 
 
@@ -467,7 +466,7 @@ def make_svg(theme, stats):
             Consolas,
             monospace;
 
-        font-size: 15px;
+        font-size: 11px;
         white-space: pre;
     }}
 
@@ -506,7 +505,7 @@ def make_svg(theme, stats):
             Consolas,
             monospace;
 
-        font-size: 14px;
+        font-size: 13px;
     }}
 
     .stats {{
@@ -518,7 +517,7 @@ def make_svg(theme, stats):
             Consolas,
             monospace;
 
-        font-size: 14px;
+        font-size: 13px;
     }}
 
     """
