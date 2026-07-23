@@ -354,7 +354,7 @@ def make_svg(theme, stats):
 
         (
             "Discord",
-            "irohitkun"
+            "irohit.kun"
         )
 
     ]
