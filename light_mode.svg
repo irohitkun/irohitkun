@@ -308,20 +308,37 @@
                 class="text"
             >
                 <tspan fill="#8250df">
-                    IDE:
+                    Shell:
                 </tspan>
 
                 <tspan
                     x="670"
                     fill="#24292f"
                 >
-                    Arduino IDE, VS Code
+                    Bash, Termux
                 </tspan>
             </text>
             
             <text
                 x="465"
                 y="244"
+                class="text"
+            >
+                <tspan fill="#8250df">
+                    Editor:
+                </tspan>
+
+                <tspan
+                    x="670"
+                    fill="#24292f"
+                >
+                    VS Code, Arduino IDE
+                </tspan>
+            </text>
+            
+            <text
+                x="465"
+                y="275"
                 class="text"
             >
                 <tspan fill="#8250df">
@@ -332,13 +349,13 @@
                     x="670"
                     fill="#24292f"
                 >
-                    C, Arduino
+                    C
                 </tspan>
             </text>
             
             <text
                 x="465"
-                y="275"
+                y="306"
                 class="text"
             >
                 <tspan fill="#8250df">
@@ -355,41 +372,75 @@
             
             <text
                 x="465"
-                y="306"
+                y="337"
                 class="text"
             >
                 <tspan fill="#8250df">
-                    Hobbies.Software:
+                    Core.Embedded:
                 </tspan>
 
                 <tspan
                     x="670"
                     fill="#24292f"
                 >
-                    Linux, Minecraft, Self-Hosting, Modding
+                    Arduino, Electronics
                 </tspan>
             </text>
             
             <text
                 x="465"
-                y="337"
+                y="368"
                 class="text"
             >
                 <tspan fill="#8250df">
-                    Hobbies.Hardware:
+                    Core.Systems:
                 </tspan>
 
                 <tspan
                     x="670"
                     fill="#24292f"
                 >
-                    Arduino, Electronics, Embedded Systems
+                    Linux, Embedded Systems
+                </tspan>
+            </text>
+            
+            <text
+                x="465"
+                y="399"
+                class="text"
+            >
+                <tspan fill="#8250df">
+                    Core.Hardware:
+                </tspan>
+
+                <tspan
+                    x="670"
+                    fill="#24292f"
+                >
+                    Circuit Prototyping
+                </tspan>
+            </text>
+            
+            <text
+                x="465"
+                y="430"
+                class="text"
+            >
+                <tspan fill="#8250df">
+                    Interests:
+                </tspan>
+
+                <tspan
+                    x="670"
+                    fill="#24292f"
+                >
+                    Low-Level Systems, Hardware, Linux
                 </tspan>
             </text>
             
         <text
             x="465"
-            y="378"
+            y="471"
             class="section"
             fill="#24292f"
         >
@@ -398,15 +449,15 @@
         
         <line
             x1="465"
-            y1="392"
+            y1="485"
             x2="1000"
-            y2="392"
+            y2="485"
             stroke="#d0d7de"
         />
         
             <text
                 x="465"
-                y="420"
+                y="513"
                 class="text"
             >
 
@@ -425,7 +476,7 @@
             
             <text
                 x="465"
-                y="448"
+                y="541"
                 class="text"
             >
 
@@ -444,7 +495,7 @@
             
         <text
             x="465"
-            y="486"
+            y="579"
             class="section"
             fill="#24292f"
         >
@@ -453,15 +504,15 @@
         
         <line
             x1="465"
-            y1="500"
+            y1="593"
             x2="1000"
-            y2="500"
+            y2="593"
             stroke="#d0d7de"
         />
         
         <text
             x="465"
-            y="530"
+            y="623"
             class="stats"
             fill="#24292f"
         >

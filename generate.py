@@ -268,33 +268,21 @@ def make_svg(theme, stats):
     # ─────────────────────────────────────────
 
     rows = [
+    ("OS", "Windows 11, Android 11, Linux"),
+    ("Uptime", uptime),
+    ("Kernel", "ECE Diploma Student"),
+    ("Shell", "Bash, Termux"),
+    ("Editor", "VS Code, Arduino IDE"),
 
-        ("OS",
-         "Windows 11, Android 11, Linux"),
+    ("Languages.Programming", "C"),
+    ("Languages.Real", "English, Telugu"),
 
-        ("Uptime",
-         uptime),
+    ("Core.Embedded", "Arduino, Electronics"),
+    ("Core.Systems", "Linux, Embedded Systems"),
+    ("Core.Hardware", "Circuit Prototyping"),
 
-        ("Kernel",
-         "ECE Diploma Student"),
-
-        ("IDE",
-         "Arduino IDE, VS Code"),
-
-        ("Languages.Programming",
-         "C, Arduino"),
-
-        ("Languages.Real",
-         "English, Telugu"),
-
-        ("Hobbies.Software",
-         "Linux, Minecraft, Self-Hosting, Modding"),
-
-        ("Hobbies.Hardware",
-         "Arduino, Electronics, Embedded Systems"),
-
-    ]
-
+    ("Interests", "Low-Level Systems, Hardware, Linux"),
+]
 
     for key, value in rows:
 
